@@ -1,7 +1,7 @@
 # Device tree for Samsung Grand Prime SM-G530H (XCU)
 
 ### Specs (Physically inspected):
-  - CPU: Qualcomm MSM8216 Snapdragon 410, 1200 MHz
+  - CPU: Qualcomm MSM8916 Snapdragon 410, 1200 MHz
   - Codename: FORTUNAVE3G
   - Display Panel:
   - Display Resolution: 960x540
